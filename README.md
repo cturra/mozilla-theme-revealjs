@@ -1,4 +1,4 @@
-mozilla-theme-revealjs
+Mozilla reveal.js theme
 ======================
 
 Mozilla branded theme for reveal.js based on light blue/grey Firefox colors found at:
@@ -13,7 +13,7 @@ Installation
 
 The easiest way is to add this as a submodule to your reveal.js presentation:
 
-    $ cd ~/revealjs/locaiton/ 
+    $ cd ~/revealjs/location/ 
     $ git submodule add https://github.com/cturra/mozilla-theme-revealjs.git css/theme/mozilla
 
 
