@@ -17,6 +17,6 @@ You can manually use the theme by placing the style sheet into the `<revealjs>/c
 Image borders
 -------------
 
-By default there are no borders around images. This is was designed for logos with transparent backgrounds (such as Firefox or Marketplace) to look their best. If you want to have a border around your image, just call the `img_border` class:
+By default there are no borders around images. This was designed for logos with transparent backgrounds (such as Firefox or Marketplace) to look their best. If you want to have a border around your image, just call the `img_border` class:
 
     <img src="img/superAwesomeImageYo.png" class="img_border" />
